@@ -1,1 +1,2 @@
 Hi this is git demo from local to server
+The file is updated
